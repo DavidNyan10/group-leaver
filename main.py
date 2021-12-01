@@ -1,5 +1,4 @@
 import discord
-import random
 import asyncio
 
 token="your.token.here"
